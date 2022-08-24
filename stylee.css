@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+p {
+    font-style: bold;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.jhon {
+    color: darkviolet;
+}
+
+.ordhek-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.ordhek-width img {
+    width: 100%;
+    padding-bottom: 0%;
+}
+
+.flexi-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.first-banner {
+    background-size: 100%;
+}
+
+.link-butt {
+    text-decoration: none;
+    background-color: darkviolet;
+    padding: 10px 40px;
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 600;
+}
