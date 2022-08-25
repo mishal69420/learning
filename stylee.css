@@ -42,3 +42,16 @@ h1 {
     color: aliceblue;
     font-weight: 600;
 }
+
+.suck {
+    color: cyan;
+}
+
+.listen-button {
+    text-decoration: none;
+    background-color: cyan;
+    padding: 10px 40px;
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 600;
+}
